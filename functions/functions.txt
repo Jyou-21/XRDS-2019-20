@@ -1,0 +1,11 @@
+What keyword does Swift use to mark the definition of a function? (Think like def in Python and function in JavaScript.)
+
+Func
+
+How do you declare the type of value that a function returns?
+
+->
+
+How could you use argument labels to help clean up your code or make it more readable?
+
+Explain what the parameter is to someone reading the code, instead if sending them on a scavenger hunt through the function.
